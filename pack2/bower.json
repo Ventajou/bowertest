@@ -9,5 +9,8 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "sass-bootstrap": "~3.0.2"
+  }
 }
